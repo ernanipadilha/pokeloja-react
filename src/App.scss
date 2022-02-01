@@ -1,0 +1,12 @@
+.App{
+  display: block;
+  .container{
+    display: flex;
+    justify-content: space-between;
+  }
+}
+.main{
+  background-color: aqua;
+  height: 500px;
+  width: 80%;
+}
